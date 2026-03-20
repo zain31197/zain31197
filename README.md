@@ -55,20 +55,11 @@ currently_learning:
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     CORE COMPETENCIES                           ║
-╠══════════════╦══════════════════╦══════════════╦════════════════╣
-║   Languages  ║  ML / AI Stack   ║   Web / DB   ║    Tooling    ║
-╠══════════════╬══════════════════╬══════════════╬════════════════╣
-║  Python ████ ║  Scikit-learn ██ ║  Node.js  ██ ║  Git       ██ ║
-║  R      ███  ║  Pandas       ██ ║  Express  ██ ║  VS Code   ██ ║
-║  C++    ██   ║  NumPy        ██ ║  Flask    █  ║  Jupyter   ██ ║
-║  C#     ██   ║  Matplotlib   ██ ║  MySQL    ██ ║                ║
-║  SQL    ███  ║  NLTK         █  ║              ║                ║
-║  Asm    █    ║  CNN / DL     ██ ║              ║                ║
-╚══════════════╩══════════════════╩══════════════╩════════════════╝
-```
+| 💻 Languages | 🤖 ML / AI Stack | 🌐 Web & DB | 🛠️ Tooling |
+|:---:|:---:|:---:|:---:|
+| Python · R · C++ | Scikit-learn · Pandas | Node.js · Express | Git · VS Code |
+| C# · SQL · Assembly | NumPy · Matplotlib | Flask · MySQL | Jupyter Notebook |
+| | NLTK · CNN / DL | | |
 
 </div>
 
@@ -206,25 +197,21 @@ currently_learning:
 
 ## 💼 Experience Timeline
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  AI / Machine Learning Intern                                           │
-│  AI GenMat, Islamabad                              Jun 2025 – Aug 2025  │
-│                                                                         │
-│  > Built CNN model for Diabetic Retinopathy detection (80% accuracy)   │
-│  > Engineered and validated a loan default risk ML model                │
-│  > Worked on real medical imaging and financial data pipelines          │
-└─────────────────────────────────────────────────────────────────────────┘
+### 🤖 AI / Machine Learning Intern — AI GenMat, Islamabad
+`Jun 2025 – Aug 2025`
 
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Volunteer Data Analyst                                                 │
-│  JAQET (Education Trust), Islamabad               Feb 2025 – May 2025  │
-│                                                                         │
-│  > Managed 100+ survey lifecycles end-to-end                           │
-│  > Python-based statistical models for educational resource planning   │
-│  > Data-driven insights delivered for NGO annual reporting             │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+- Built a CNN model for Diabetic Retinopathy detection achieving **80% classification accuracy**
+- Engineered and validated a loan default risk ML model for financial risk assessment
+- Worked hands-on with real medical imaging datasets and production data pipelines
+
+---
+
+### 📋 Volunteer Data Analyst — JAQET (Education Trust), Islamabad
+`Feb 2025 – May 2025`
+
+- Managed 100+ survey lifecycles end-to-end: extraction, cleaning, and normalization
+- Built Python-based statistical models to support educational resource planning
+- Delivered data-driven insights for NGO annual reporting and decision-making
 
 ---
 
@@ -234,15 +221,9 @@ currently_learning:
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-zain3119-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/zain3119/)
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    LEETCODE PROFILE                         ║
-╠══════════════════════╦═══════════════╦══════════════════════╣
-║   Problems Solved    ║     Rank      ║      Username        ║
-╠══════════════════════╬═══════════════╬══════════════════════╣
-║        200  ✅       ║   751,146  🌍 ║      zain3119        ║
-╚══════════════════════╩═══════════════╩══════════════════════╝
-```
+| 🧩 Problems Solved | 🌍 Global Rank | 👤 Username |
+|:---:|:---:|:---:|
+| **200** ✅ | **751,146** | [zain3119](https://leetcode.com/u/zain3119/) |
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=zain3119&theme=dark)
 
@@ -328,14 +309,7 @@ achievements = [
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   "Data is the new oil —                              ║
-║    and I'm here to refine it." ⚡                     ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
+### *"Data is the new oil — and I'm here to refine it." ⚡*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zain31197&color=6C63FF&style=flat-square&label=Profile+Views)
 &nbsp;
