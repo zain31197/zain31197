@@ -39,7 +39,7 @@ achievements:
   - "Dean's List Honoree  4th Semester, 2025"
   - "AI/ML Intern @ AI GenMat, Islamabad"
   - "IKLC Essay Writing Winner (2021)"
-  - "Certified — Digital Marketing, Digiskills.pk"
+  - "Certified Digital Marketing, Digiskills.pk"
 
 currently_learning:
   - Deep Learning architectures (ResNet, ViT, BERT)
