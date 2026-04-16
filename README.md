@@ -171,7 +171,7 @@ currently_learning:
 <td width="50%" valign="top">
 
 ### Global Inflation Analysis
-> Statistical modeling of worldwide inflation trends in R — correlations across countries visualized with rich plots.
+> Statistical modeling of worldwide inflation trends in R correlations across countries visualized with rich plots.
 
 **Stack:** `R` `ggplot2` `Statistical Modeling`
 
